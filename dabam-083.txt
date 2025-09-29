@@ -7,7 +7,7 @@
   "COLUMN_INDEX_ORDINATES": 1,
   "DETRENDING": 1,
   "YEAR_FABRICATION": "",
-  "SURFACE_SHAPE": 1,
+  "SURFACE_SHAPE": "Plane",
   "FUNCTION": 3,
   "LENGTH": "0.65",
   "WIDTH": "0.07",
